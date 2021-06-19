@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @FissionFeline
-- 👀 I’m interested in almost everything 
-- 🌱 I’m currently learning express.js unreal engine 4 
+- 👋 Hi, I’m @FissionFeline my pfp was done by the artist General Hellcat here is his website https://generalhellcat.carrd.co/ and twitter.com/genhellcat
+- 👀 I’m interested in almost everything mostly C#,C++,Python,Java,Go,Javascript,Networking,CloudComputing,Web development,Desktop Development 
+- 🌱 I’m currently learning express.js unreal engine 4 minecraft mod development 
 - 💞️ I’m looking to collaborate with anyone. Im open for litterally anything 
-- 📫 How to reach me I will find you 
+- 📫 How to reach me I will find you or Furious Feline#3399
 <!---
 FissionFeline/FissionFeline is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
