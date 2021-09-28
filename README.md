@@ -1,5 +1,5 @@
 -Hi, I’m @FissionFeline A good boy with bad habits \
--How to reach me I will find you or Furious Feline#3399
+-If you wanna chit chat Furious Feline#3399
 -Im open for projects etc
 -Im a wizard cat
 
