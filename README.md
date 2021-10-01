@@ -1,4 +1,4 @@
--Gweetings, I’m @FissionFeline A good boy with bad habits \
+-Gweetings, I’m a good boy with bad habbits \
 -If you wanna chit chat Furious Feline#3399
 -Im open for projects etc
 -Im a wizard cat
