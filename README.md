@@ -3,7 +3,6 @@
 -Im open for projects etc
 -Im a wizard cat
 
--Enjoy these things
  [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=FissionFeline&langs_count=5&theme=tokyonight)]()
 
 
