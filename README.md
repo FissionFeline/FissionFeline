@@ -4,9 +4,9 @@
 -Im a wizard cat
 
 ----currently working on----
-Puroto
-Nova Prospect 
-Verification bot
+Puroto\n
+Nova Prospect\n
+Verification bot\n
 
  [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=FissionFeline&langs_count=5&theme=tokyonight)]()
 
