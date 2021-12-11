@@ -4,8 +4,8 @@
 -Im a wizard cat
 
 ----currently working on----
-Puroto\n
-Nova Prospect\n
+Puroto\
+Nova Prospect\
 
 
 
