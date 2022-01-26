@@ -1,11 +1,14 @@
--Gweetings, I’m a good boy with bad habbits \
--If you wanna chit chat Furious Feline#3399 \
--Im open for projects etc\
--Im a wizard cat
+#-Gweetings, I’m a good boy with bad habbits \
+##-If you wanna chit chat Furious Feline#3399 \
+##-Im open for projects etc\
+##-Im a wizard cat
 
-----currently working on----
-Puroto\
-Nova Prospect\
+#----currently working on----
+##Puroto \n
+###A furry social media platform
+##Nova ProspecK\n
+###My own discord bot 
+
 
 
 
