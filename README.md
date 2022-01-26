@@ -1,7 +1,7 @@
 <h1>-Gweetings, I’m a good boy with bad habbits</h1> 
-<h2>-If you wanna chit chat Furious Feline#3399</h2> 
-<h2>-Im open for projects etc</h2> 
-<h2>-Im a wizard cat</h2> <br>
+<h2>-If you wanna chit chat Furious Feline#3399
+-Im open for projects etc
+-Im a wizard cat</h2> <br>
 
 # Stuff I am currently working on
 ## Puroto 
