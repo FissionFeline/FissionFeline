@@ -1,12 +1,12 @@
-<h1>-Gweetings, I’m a good boy with bad habbits</h1> <br>
-<h2>-If you wanna chit chat Furious Feline#3399</h2> <br>
-<h2>-Im open for projects etc</h2> <br>
+<h1>-Gweetings, I’m a good boy with bad habbits</h1> 
+<h2>-If you wanna chit chat Furious Feline#3399</h2> 
+<h2>-Im open for projects etc</h2> 
 <h2>-Im a wizard cat</h2> <br>
 
 # ----currently working on----
-## Puroto \n
+## Puroto 
 ### A furry social media platform
-## Nova ProspecK\n
+## Nova Prospekt
 ### My own discord bot 
 
 
