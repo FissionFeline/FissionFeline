@@ -3,7 +3,7 @@
 <h2>-Im open for projects etc</h2> 
 <h2>-Im a wizard cat</h2> <br>
 
-# ----currently working on----
+# Stuff I am currently working on
 ## Puroto 
 ### A furry social media platform
 ## Nova Prospekt
