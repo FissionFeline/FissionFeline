@@ -1,6 +1,13 @@
-<h1>-Gweetings, I’m a good boy with bad habbits</h1> 
+#Gweetings, I’m a good boy with bad habbits
 
-<h2>-If you wanna chit chat Furious Feline#3399
+You can call me furious feline or fission feline or mad cat 
+
+I'm currently 17 years old and planning on studying computer science and nuclear phyiscs later in my life
+
+Curren
+
+
+If you wanna chit chat Furious Feline#3399
  
 -Im open for projects etc 
  
