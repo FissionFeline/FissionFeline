@@ -5,7 +5,7 @@ You can call me furious feline or fission feline or mad cat
 I'm currently 17 years old and planning on studying computer science and nuclear phyiscs later in my life for now Im just coding for fun
 
 > **Stuff im currently working on**
-> > Nova Prospekt \n 
+> > Nova Prospekt /n 
 > > Puroto 
 > > Umbreons website 
 > > A few other websites 
