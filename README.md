@@ -1,26 +1,24 @@
-#Gweetings, I’m a good boy with bad habbits
+# Gweetings, I’m a good boy with bad habbits
 
 You can call me furious feline or fission feline or mad cat 
 
-I'm currently 17 years old and planning on studying computer science and nuclear phyiscs later in my life
+I'm currently 17 years old and planning on studying computer science and nuclear phyiscs later in my life for now Im just coding for fun
 
-Curren
-
-
+> **Stuff im currently working on**
+> > Nova Prospekt 
+> > Puroto 
+> > Umbreons website 
+> > A few other websites 
+> > Night vision goggles
+> > Unity 
+> > A few private discord bots
+> > furrily3's discord bot
+> > Old banna
 If you wanna chit chat Furious Feline#3399
  
 -Im open for projects etc 
  
 -Im a wizard cat</h2> <br>
-
-# Stuff I am currently working on
-## Puroto 
-### A furry social media platform
-## Nova Prospekt
-### My own discord bot 
-
-
-
 
  [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=FissionFeline&langs_count=5&theme=tokyonight)]()
 
