@@ -22,6 +22,8 @@ I'm planning on studying computer science and nuclear phyiscs later in my life f
 > > furrily3's discord bot
 
 > > Old banna
+
+
 If you wanna chit chat Furious Feline#3399
  
 -Im open for projects etc 
