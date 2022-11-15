@@ -7,10 +7,6 @@ I'm planning on studying computer science and nuclear phyiscs later in my life f
 > **Stuff im currently working on**
 > > Nova Prospekt 
 
-> > Puroto 
-
-> > Umbreons website 
-
 > > A few other websites
  
 > > Night vision goggles
@@ -18,11 +14,6 @@ I'm planning on studying computer science and nuclear phyiscs later in my life f
 > > Unity 
 
 > > A few private discord bots
-
-> > furrily3's discord bot
-
-> > Old banna
-
 
 If you wanna chit chat Furious Feline#3399
  
