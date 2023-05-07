@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,600;1,200&family=Pacifico&display=swap');
+:root {
+    --main-bg-color: #1a1a1a;
+    --main-font: 'Nunito', sans-serif;
+    --main-font-cursive: 'Pacifico', cursive;
+    --main-color-white: #fafafa;
+    --main-color-black: #1a1a1a;
+    --main-color-active: #32a852;
+}

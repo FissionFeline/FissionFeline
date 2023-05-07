@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="placeholder">
+    <link rel="apple-touch-icon" sizes="180x180" href="./assets/icons/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="./assets/icons/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="./assets/icons/favicon-16x16.png">
+    <link rel="manifest" href="./assets/icons/site.webmanifest">
+    <link rel="stylesheet" href="style/landing.css">
+    <meta name="msapplication-TileColor" content="#da532c">
+    <meta name="theme-color" content="#ffffff">
+    <meta name="msapplication-TileColor" content="placeholder">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:site" content="placeholder">
+    <meta name="twitter:creator" content="placeholder">
+    <meta name="twitter:title" content="placeholder">
+    <meta name="twitter:description" content="placeholder">
+    <meta name="twitter:image" content="placeholder">
+    <title>
+        Feline Info
+    </title>
+
+</head>
+
+<body>
+    <header class="header">
+        <nav class="navbar">
+            <a class="nav-logo">Furious Feline</a>
+            <ul class="nav-menu">
+                <li class="nav-item">
+                    <a href="#" class="nav-link">Commissions</a>
+                </li>
+                <li class="nav-item">
+                    <a href="#" class="nav-link">Blog</a>
+                </li>
+                <li class="nav-item">
+                    <a href="#" class="nav-link">Contact</a>
+                </li>
+            </ul>
+            <div class="hamburger">
+                <span class="bar"></span>
+                <span class="bar"></span>
+                <span class="bar"></span>
+            </div>
+        </nav>
+    </header>
+    <div class="main">
+        <img class="main_pfp" src="./assets/feline_main_headshot.jpeg">
+        <div class="main_text">
+            <h1>Greetings!</h1>
+            <h2>I'm Furious Feline and this is my website!</h2>
+            <h2>On here you can find anything about me! Like my commissions,blog and contact info!</h2>
+        </div>
+    </div>
+</body>
+<script>
+    const hamburger = document.querySelector(".hamburger");
+    const navMenu = document.querySelector(".nav-menu");
+
+    hamburger.addEventListener("click", mobileMenu);
+
+    function mobileMenu() {
+        hamburger.classList.toggle("active");
+        navMenu.classList.toggle("active");
+    }
+</script>
+
+</html>
