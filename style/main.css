@@ -30,6 +30,11 @@ a {
 
 .hamburger {
     display: none;
+    transition: 0.35s;
+}
+
+.hamburger:hover * {
+    background-color: var(--main-color-active);
 }
 
 .bar {
