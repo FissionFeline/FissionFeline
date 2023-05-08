@@ -25,17 +25,17 @@ Man I love half life
 
 <h2>My streak</h2>
 <p align="center">
-    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=FissionFeline&theme=tokyonight"/></a>
+    <a href="https://fissionfeline.github.io/FissionFeline/"><img src="https://github-readme-streak-stats.herokuapp.com?user=FissionFeline&theme=tokyonight"/></a>
 </p>
 
 <h2>My most used languages!</h2>
 <p align="center">
-    <a href="https://git.io/streak-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FissionFeline&langs_count=5&theme=tokyonight"/></a>
+    <a href="https://fissionfeline.github.io/FissionFeline/"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FissionFeline&langs_count=5&theme=tokyonight"/></a>
 </p>
 
 <h2>My Stats</h2>
 <p align="center">
-    <a href="https://git.io/streak-stats"><img src="https://github-readme-stats.vercel.app/api/?username=FissionFeline&count_private=true&theme=tokyonight&showicons=true"/></a>
+    <a href="https://fissionfeline.github.io/FissionFeline/"><img src="https://github-readme-stats.vercel.app/api/?username=FissionFeline&count_private=true&theme=tokyonight&showicons=true"/></a>
 </p>
 
 
