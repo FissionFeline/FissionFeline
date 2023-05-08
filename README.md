@@ -13,15 +13,13 @@ I love half life
 <h2><u>Check out my website!</u></h2>
     <a href="https://fissionfeline.github.io/FissionFeline/"><h3>fissionfeline.github.io/FissionFeline</h3></a>
 <h2><u>Stuff im currently working on</u></h2>
-> > Nova Prospekt 
+> Nova Prospekt 
 
-> > A few other websites
+> A few other websites
  
-> > Night vision goggles
+> Night vision goggles 
 
-> > Unity 
-
-> > A few private discord bots
+> A few private discord bots
 
 
 
