@@ -23,8 +23,7 @@ If you wanna chit chat Furious Feline#3399
 
 Man I love half life
 <p align="center">
-
- <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=FissionFeline&theme=tokyonight"/></a>
+    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=FissionFeline&theme=tokyonight"/></a>
 </p>
 
 <p align="center">
