@@ -23,7 +23,7 @@ If you wanna chit chat Furious Feline#3399
 
 Man I love half life
 <div align="center">
- [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=FissionFeline&langs_count=5&theme=tokyonight)]()
+  [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=FissionFeline&langs_count=5&theme=tokyonight)]()
 </div>
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=FissionFeline&count_private=true&theme=tokyonight&showicons=true)]()
