@@ -22,14 +22,14 @@ If you wanna chit chat Furious Feline#3399
 -Im a wizard cat</h2> <br>
 
 Man I love half life
-<div align="center">
+<p align="center">
   [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=FissionFeline&langs_count=5&theme=tokyonight)]()
-</div>
+
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=FissionFeline&count_private=true&theme=tokyonight&showicons=true)]()
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=FissionFeline&theme=tokyonight)](https://git.io/streak-stats)
-
+</p>
 
 
 
