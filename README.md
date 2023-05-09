@@ -16,6 +16,9 @@ Contact ? Find me on Discord: Furious Feline#3399
     <a href="https://fissionfeline.github.io/FissionFeline/"><h3>fissionfeline.github.io/FissionFeline</h3></a>
 <h2><u>Stuff im currently working on</u></h2>
 
+> My personal Website!
+> > https://fissionfeline.github.io/FissionFeline
+
 > Expansions on Nova Prospekt 
 
 > > Nova Prospekt is a Public Utility Bot im making
