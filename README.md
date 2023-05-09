@@ -20,15 +20,14 @@ Contact ? Find me on Discord: Furious Feline#3399
 > > https://fissionfeline.github.io/FissionFeline
 
 > Expansions on Nova Prospekt 
-
 > > Nova Prospekt is a Public Utility Bot im making
 
 > A few other websites
- 
+> > My commissions are open
+
 > Night vision goggles 
 
 > Private Discord bot commissions
-
 >> My commissions are open! Dm me on Discord for info
 
 <u><h2>My streak</h2></u>
