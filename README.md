@@ -10,6 +10,8 @@ Im a wizard cat
 
 I love half life
 
+Contact ? Find me on Discord: Furious Feline#3399
+
 <h2><u>Check out my website!</u></h2>
     <a href="https://fissionfeline.github.io/FissionFeline/"><h3>fissionfeline.github.io/FissionFeline</h3></a>
 <h2><u>Stuff im currently working on</u></h2>
@@ -24,6 +26,7 @@ I love half life
 
 > Private Discord bot commissions
 
+>> My commissions are open! Dm me on Discord for info
 
 <u><h2>My streak</h2></u>
 <p align="center">
