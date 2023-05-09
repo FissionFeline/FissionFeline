@@ -14,14 +14,15 @@ I love half life
     <a href="https://fissionfeline.github.io/FissionFeline/"><h3>fissionfeline.github.io/FissionFeline</h3></a>
 <h2><u>Stuff im currently working on</u></h2>
 
-> Nova Prospekt 
+> Expansions on Nova Prospekt 
+
+> > Nova Prospekt is a Public Utility Bot im making
 
 > A few other websites
  
 > Night vision goggles 
 
-> A few private discord bots
-
+> Private Discord bot commissions
 
 
 <u><h2>My streak</h2></u>
