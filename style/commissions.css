@@ -5,10 +5,16 @@
     flex-wrap: wrap;
     align-items: stretch;
     justify-content: space-evenly;
-    margin: 1dvb;
+    margin: 20dvb;
+    vertical-align: middle;
 }
 
 .box-item {
-    width: 45dvb;
-    height: 25dvb;
+    width: auto;
+    height: auto;
+    padding: 2dvb;
+    border-radius: 5%;
+    border-style: solid;
+    border-color: aquamarine;
+    border-width: 1dvb;
 }
