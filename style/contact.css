@@ -1,0 +1,18 @@
+@import url("./main.css");
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,500;1,400&display=swap');
+
+.pill_holders {
+    display:flex;
+    justify-content: space-evenly;
+    align-self: center;
+}
+
+.pill_container{
+    background-color:var(--main-color-white);
+    height: 15dvb;
+    width: auto;
+    justify-content: center;
+    text-align: center;
+    display: flex;
+    align-items: center;
+}
