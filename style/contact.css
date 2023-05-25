@@ -16,3 +16,16 @@
     display: flex;
     align-items: center;
 }
+
+.pill_text {
+    color: var(--main-color-black)
+}
+
+.pill_text::after{
+    background-size: 10px 20px;
+    display: inline-block;
+    width: 10px; 
+    height: 20px;
+    content:"";
+    background-image: url('../assets/discord.svg');
+}
