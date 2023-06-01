@@ -3,13 +3,16 @@
 
 .pill_holders {
     display:flex;
+    flex-wrap: wrap;
     justify-content: space-evenly;
     align-self: center;
+    flex-direction: row;
+    padding-bottom: 10dvb;
 }
 
 .pill_container{
     height: 15dvb;
-    width: auto;
+    width: 40dvb;
     justify-content: center;
     text-align: center;
     display: flex;
@@ -18,17 +21,24 @@
     border-top: 0.5rem;
     border-color: var(--main-color-active);
     border-style: solid;
+    border-radius: 0.1rem;
 }
 
 .pill_text {
     color: var(--main-color-white)
 }
-
-.pill_text::after{
+/*
+.pill_text::before{
     background-size: 10px 20px;
     display: inline-block;
     width: 10px; 
     height: 20px;
     content:"";
     background-image: url('../assets/discord.svg');
+}*/
+
+@media only screen and (max-width: 768px) {
+    .pill_container{
+        padding-bottom:5dvb;
+    }
 }
