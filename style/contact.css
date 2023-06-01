@@ -8,17 +8,20 @@
 }
 
 .pill_container{
-    background-color:var(--main-color-white);
     height: 15dvb;
     width: auto;
     justify-content: center;
     text-align: center;
     display: flex;
     align-items: center;
+    border: 0rem;
+    border-top: 0.5rem;
+    border-color: var(--main-color-active);
+    border-style: solid;
 }
 
 .pill_text {
-    color: var(--main-color-black)
+    color: var(--main-color-white)
 }
 
 .pill_text::after{
