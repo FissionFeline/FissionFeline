@@ -40,8 +40,6 @@ Contact ? Find me on Discord: Furious Feline#3399
     <a href="https://fissionfeline.github.io/FissionFeline/"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FissionFeline&langs_count=5&theme=tokyonight"/></a>
 </p>
 
-
-
 <!---
 meow
 --->
