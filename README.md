@@ -5,7 +5,6 @@ You can call me furious feline or fission feline or mad cat
 I'm planning on studying computer science and nuclear phyiscs later in my life for now Im just coding for fun
  
 Im open for projects!
-
 Im a wizard cat
 
 I love half life
