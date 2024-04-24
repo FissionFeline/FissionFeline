@@ -27,11 +27,6 @@ Contact ? Find me on Discord: furious_feline
 > Private Discord bot commissions
 >> My commissions are open! Dm me on Discord for info
 
-<u><h2>My streak</h2></u>
-<p align="center">
-    <a href="https://fissionfeline.github.io/FissionFeline/"><img src="https://github-readme-streak-stats.herokuapp.com?user=FissionFeline&theme=tokyonight"/></a>
-</p>
-
 <u><h2>My most used languages!</h2></u>
 <p align="center">
     <a href="https://fissionfeline.github.io/FissionFeline/"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FissionFeline&langs_count=5&theme=tokyonight"/></a>
