@@ -1,7 +1,7 @@
 # Gweetings, I’m a good boy with bad habbits
 
 You can call me furious feline or fission feline or mad cat 
-I'm planning on studying computer science and nuclear phyiscs later in my life for now Im just coding for fun
+Germanys best (mid) coding slave to the most prestigious university in Germany 
  
 Im open for projects!
 Im a wizard cat
@@ -13,19 +13,8 @@ Contact ? Find me on Discord: furious_feline
 <h2><u>Check out my website!</u></h2>
     <a href="https://fissionfeline.github.io/FissionFeline/"><h3>fissionfeline.github.io/FissionFeline</h3></a>
 <h2><u>Stuff im currently working on</u></h2>
-> My personal Website!
-> > https://fissionfeline.github.io/FissionFeline
 
-> Expansions on Nova Prospekt 
-> > Nova Prospekt is a Public Utility Bot im making
-
-> A few other websites
-> > My commissions are open
-
-> Night vision goggles 
-
-> Private Discord bot commissions
->> My commissions are open! Dm me on Discord for info
+Your spinalcord
 
 <u><h2>My most used languages!</h2></u>
 <p align="center">
